@@ -58,3 +58,13 @@ h1, h2 {
   font-size: 18px;
 }
 
+.flavor, .dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
