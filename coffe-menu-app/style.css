@@ -68,3 +68,11 @@ h1, h2 {
   width: 25%;
 }
 
+footer {
+  font-size: 14px;
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
